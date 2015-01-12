@@ -1,0 +1,56 @@
+.stronghold-panel
+{
+	background: url('/img/SpiderFront.jpg');
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.clan-mon
+{
+	width: 30px;
+	height: 30px;
+	vertical-align: middle;
+}
+
+.honor-count
+{
+	font-weight: bold;
+	font-size: 1.5em;
+}
+
+.your-honor-mon
+{
+	background: url('/img/ClanSpider.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	text-align: center;
+}
+
+.opponent-honor-mon
+{
+	background: url('/img/ClanCrane.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	text-align: center;
+}
+
+
+.standoff-count
+{
+	color: #ffffff;
+}
+
+#footer
+{
+    height: 50px;
+    position: fixed;
+    bottom: 5px;
+    left: 0px;
+    line-height: 50px;
+    color: #aaa;
+    text-align: center;
+    width: 100%;
+}

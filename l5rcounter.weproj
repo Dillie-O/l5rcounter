@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<WebEditorProject>
+    <!---->
+    <ProjectInformation>
+        <ProjectName>l5rcounter</ProjectName>
+        <ProjectVersion>2.0</ProjectVersion>
+        <ServerInfo ServerID="-1"></ServerInfo>
+        <S-DriveURL></S-DriveURL>
+    </ProjectInformation>
+    <!---->
+    <ProjectTreeFirstLevel>
+        <Node Type="2" LinkName="">./css/</Node>
+        <Node Type="2" LinkName="">./img/</Node>
+        <Node Type="2" LinkName="">./js/</Node>
+        <Node Type="5" LinkName="">./humans.txt</Node>
+        <Node Type="5" LinkName="">./README.md</Node>
+        <Node Type="5" LinkName="">./robots.txt</Node>
+        <Node Type="5" LinkName="">./index.orig.html</Node>
+        <Node Type="5" LinkName="">./index.html</Node>
+        <Node Type="5" LinkName="">./l5rcounter.manifest</Node>
+    </ProjectTreeFirstLevel>
+    <!---->
+    <ShowedFiles>
+        <ShowedFileEditor1 FirstVisibleLine="0" CursorPosition="224">./index.html</ShowedFileEditor1>
+        <ShowedFileEditor2 FirstVisibleLine="16" CursorPosition="234">./css/app.css</ShowedFileEditor2>
+    </ShowedFiles>
+    <!---->
+</WebEditorProject>
